@@ -1,8 +1,6 @@
-<img src="images/hello.jpg" width="200" />
-
 ### Hi there 👋
 
-<img align="right" alt="GIF" src="images/homer.gif" width="275" />
+<img align="right" alt="Programmer" src="images/coder.png" width="275" />
 
 I am a freelance software architect specialized in the development of web-based business applications on top of Microsoft's technology stack. Born and raised in <img src="images/flag.svg" width="15" /> but now I'm living a nomadic existence.
 
