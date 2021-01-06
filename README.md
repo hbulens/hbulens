@@ -2,9 +2,11 @@
 
 <img align="right" alt="Programmer" src="images/coder.png" width="275" />
 
-I am a freelance software architect specialized in the development of web-based business applications on top of Microsoft's technology stack. Born and raised in <img src="images/flag.svg" width="15" /> but now I'm living a nomadic existence.
+I am managing partner at Dimenics, an ISV that builds software for the Microsoft Dynamics product suite. Formerly worked as a business consultant and software architect, where I specialized in the development of web-based business applications on top of Microsoft's technology stack. 
 
-For the last five years, I've worked with @dimenics on a product called [Dime.Scheduler](https://www.dimescheduler.com), which is a horizontal add-in for ERP systems such as Microsoft Dynamics 365 Business Central 🖥️.
+I spend most of my days working on [Dime.Scheduler](https://www.dimescheduler.com), a horizontal add-in for ERP systems such as Microsoft Dynamics 365 Business Central 🖥️.
+
+Born and raised in <img src="images/flag.svg" width="15" /> but now living abroad somewhere on the planet 🌎.
 
 I occassionally write a post on my [blog](https://hendrikbulens.com) ✍️.
 
