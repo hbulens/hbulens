@@ -8,13 +8,5 @@ I spend most of my days working on [Dime.Scheduler](https://www.dimescheduler.co
 
 Born and raised in <img src="images/flag.svg" width="15" /> but now living abroad somewhere on the planet 🌎.
 
-I occassionally write a post on my [blog](https://hendrikbulens.com) ✍️.
-
-<br />
-<br />
-
-### Get in touch
-
-<a href="https://github.com/hbulens"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/hendrikbulens/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="https://stackoverflow.com/users/1842261/hbulens"><img alt="StackOverflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" /></a> 
+I occassionally write a post on my [blog](https://hendrikbulens.com) ✍️. Connect with me on [LinkedIn](https://www.linkedin.com/in/hendrikbulens)!
 
