@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" alt="Dime.Scheduler" src="images/ds.png" width="275" />
+<img align="right" alt="Dime.Scheduler" src="images/ds.svg" width="275" />
 
 I am managing partner at Dimenics, an ISV that builds software for the Microsoft Dynamics product suite. Formerly worked as a business consultant and software architect, where I specialized in the development of web-based business applications on top of Microsoft's technology stack. 
 
